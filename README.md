@@ -6,3 +6,4 @@
 ### 4) Para agregar una imagen al readme.md se sube a replit (desde Upload file) y luego se agrega lo siguiente:
 ![nombre alternativo](./imagen.png) 
 #### Todo el nombre de la imagen  tiene que estar en minúscula sino no se carga
+
