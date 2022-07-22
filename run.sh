@@ -1,9 +1,5 @@
-
-# Java Example
-#javac *.java
-#java Main
 clear
-cd Unidad2
+cd Practico2
 printf "Compiling..."
 javac -d bin src/consola/*.java src/logica/*.java
 if [ $? == 0 ] 

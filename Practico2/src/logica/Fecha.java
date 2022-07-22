@@ -65,17 +65,7 @@ public class Fecha	{
   }
 
   //métodos especificos
-  public void diaSiguiente() {
-    dia++;
-    if (dia == 31) {
-      dia = 1;
-      mes++;
-      if (mes == 13) {
-        mes = 1;
-        anio++;
-      }
-    }
-  }
+
 	
 	private boolean esBisiesto ()	{
 		
@@ -120,7 +110,7 @@ public class Fecha	{
 
 	}
 	
-public void diaSiguiente2 ()	{
+public void diaSiguiente ()	{
 
 		
 		switch (mes)	{
