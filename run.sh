@@ -1,5 +1,5 @@
 clear
-cd Practico2
+cd Proyecto
 printf "Compiling..."
 javac -d bin src/consola/*.java src/logica/*.java
 if [ $? == 0 ] 
