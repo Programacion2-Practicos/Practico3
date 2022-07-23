@@ -16,7 +16,7 @@ https://replit.com/@utu_liceo/Ejer3-Electrodomestico#Z_README.md
 
 y teniendo en cuenta el Diagrama de Clase.
 
-![nombre alternativo](./imagen.png)  
+![nombre alternativo](./electrodomestico.png)  
 
 
 
