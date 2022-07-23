@@ -44,7 +44,9 @@ Incluir todo lo solicitado en los ejercicios anteriores.
 Los métodos hacen lo siguiente:
 
 •       public double sueldoAnual(): El método devuelve el salario anual percibido
+
 •       public void presentismo(): El método incrementa el valor de salario en un 10%.
+
 •       public  String  toString(): Devuelve transformado en String: los atributos y salarioAnual() (ESTE HAY QUE MODIFICARLO!)
 
 
