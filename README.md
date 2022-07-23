@@ -73,8 +73,9 @@ y con los siguientes requerimientos:
 El constructor por defecto debe inicializar al atributo numero en 1 y al palo en basto”.
 El constructor específico debe controlar que los valores recibidos son correctos:
 
-• Atributo número : Valores entre 1 y 12.
-• Atributo palo : “basto”, “copa”, “espada” u “oro”.
+• Atributo **número** : Valores entre 1 y 12.
+
+• Atributo **palo** : “basto”, “copa”, “espada” u “oro”.
 
 Además se pide:
 
