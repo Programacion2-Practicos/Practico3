@@ -16,19 +16,7 @@ https://replit.com/@utu_liceo/Ejer3-Electrodomestico#Z_README.md
 
 y teniendo en cuenta el Diagrama de Clase.
 
-![nombre alternativo](./electrodomestico.png)  
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
+![Clase Electrodomestico](./Electrodomestico.png)   
 
  Se pide agregar a la clase Electrodomestico el atributo costo y el método específico respetando el diagrama, es decir, NO pueden agregar cosas que no vea en el diagrama.
 
