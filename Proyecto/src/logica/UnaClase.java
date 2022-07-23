@@ -1,5 +1,5 @@
-public class UnaClase {
-/*	
+/*public class UnaClase {
+	
 private tipo1 atributo1;
 	private tipo2 atributo2;
 
@@ -31,6 +31,6 @@ private tipo1 atributo1;
 	public String toString() {
 		return "atributo1=" + atributo1 + ", atributo2=" + atributo2;
 	}
-	*/
+	
 
-}
+}*/
