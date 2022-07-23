@@ -78,12 +78,12 @@ El constructor específico debe controlar que los valores recibidos son correcto
 
 Además se pide:
 
-• public void  siguienteCarta(): Modifica el valor del objeto de tipo Carta por la siguiente, utilizando un orden alfabético para los palos. Por ejemplo la siguiente carta al 12 de espada es el 1 de oro.
+• **public void  siguienteCarta():** Modifica el valor del objeto de tipo Carta por la siguiente, utilizando un orden alfabético para los palos. Por ejemplo la siguiente carta al 12 de espada es el 1 de oro.
 
-• public String toString(): Ejemplo de devolución: “1 de basto”.
+• **public String toString(): **Ejemplo de devolución: “1 de basto”.
 
 
-En la clase Principal debe imprimir, utilizando un for, las 48 cartas.
+En la clase **Principal** debe imprimir, utilizando un for, las 48 cartas.
 
  
 
@@ -91,3 +91,4 @@ Enviar los link de sus replit o github para corregir
 
 NO ENVIAR CAPTURAS DE PANTALLA
 
+**OBSERVACIÓN**: Este repositorio se encuentra conectado con el replit aquí: https://replit.com/@utu_liceo/Practico2-2022#README.md
