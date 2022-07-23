@@ -4,7 +4,7 @@
 
 >![Clase Articulo](./articulo.png)
 
->## Para este ejercicio se pide desarrollar la clase **Articulo** respetando el diagrama, es decir, NO pueden agregar nuevos atributos.
+>### Para este ejercicio se pide desarrollar la clase **Articulo** respetando el diagrama, es decir, NO pueden agregar nuevos atributos.
 • **Escriba los métodos constructores, getter y setter**
 
 • **public double precioVenta():** El método devuelve el valor de precioCosto con un incremento del 30%.
