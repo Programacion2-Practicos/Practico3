@@ -5,16 +5,6 @@ public class Empleado	{
 	private String nombre;
 	private int antiguedad;
 	private double sueldo;
-	public Empleado() {
-		
-	}
-	publipackage logica;
-
-public class Empleado	{
-	private String cedula;
-	private String nombre;
-	private int antiguedad;
-	private double sueldo;
 	
 	public double sueldoAnual() {
 		return(sueldo*12);
