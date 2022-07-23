@@ -8,13 +8,13 @@ public class Empleado2	{
 	
 	//metodos constructores
 	//constructor por defecto
-	public Empleado() {
+	public Empleado2() {
 		salario=50000;
 		
 	}
 	
 	//constructor espec�fico
-	public Empleado(String ape, String nom, double sal) {
+	public Empleado2(String ape, String nom, double sal) {
 		apellido=ape;
 		nombre=nom;
 		salario=sal;

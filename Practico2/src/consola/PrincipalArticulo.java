@@ -1,7 +1,7 @@
 package consola;
 import logica.Articulo;
 
-public class Principal {
+public class PrincipalArticulo {
 
 	public static void main(String[] ar) {
 		//crear un objeto con el constructor por defecto
