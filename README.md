@@ -36,6 +36,7 @@ En la clase Principal deberá crear dos objetos de tipo electrodomestico, uno co
  https://replit.com/@utu_liceo/Ejer2-Empleado#Z_README.md
 
 y teniendo en cuenta el Diagrama de Clase.
+
 ![Clase Empleado](./Empleado.png)   
 
 Incluir todo lo solicitado en los ejercicios anteriores.
@@ -43,8 +44,7 @@ Incluir todo lo solicitado en los ejercicios anteriores.
 Los métodos hacen lo siguiente:
 
 •       public double sueldoAnual(): El método devuelve el salario anual percibido
-
-public void presentismo(): El método incrementa el valor de salario en un 10%.
+•       public void presentismo(): El método incrementa el valor de salario en un 10%.
 •       public  String  toString(): Devuelve transformado en String: los atributos y salarioAnual() (ESTE HAY QUE MODIFICARLO!)
 
 
