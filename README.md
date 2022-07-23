@@ -52,3 +52,30 @@ Los métodos hacen lo siguiente:
 
 En la clase Principal deberá crear un objeto de tipo Empleado y verificar el correcto funcionamiento de los métodos específicos.
 
+### 3) Desarrollar la clase Carta, teniendo en cuenta el siguiente diagrama de clase:
+![Clase Carta](./Carta.png)   
+
+
+y con los siguientes requerimientos:
+
+El constructor por defecto debe inicializar al atributo numero en 1 y al palo en basto”.
+El constructor específico debe controlar que los valores recibidos son correctos:
+
+• Atributo número : Valores entre 1 y 12.
+• Atributo palo : “basto”, “copa”, “espada” u “oro”.
+
+Además se pide:
+
+• public void  siguienteCarta(): Modifica el valor del objeto de tipo Carta por la siguiente, utilizando un orden alfabético para los palos. Por ejemplo la siguiente carta al 12 de espada es el 1 de oro.
+
+• public String toString(): Ejemplo de devolución: “1 de basto”.
+
+
+En la clase Principal debe imprimir, utilizando un for, las 48 cartas.
+
+ 
+
+Enviar los link de sus replit o github para corregir
+
+NO ENVIAR CAPTURAS DE PANTALLA
+
