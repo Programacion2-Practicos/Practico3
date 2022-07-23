@@ -8,3 +8,12 @@
 #### 5) El archivo .replit es un archivo oculto
 #### Todo el nombre de la imagen  tiene que estar en minúscula sino no se carga
 
+PRACTICO
+Hacer un fork a los siguientes link y realizar lo que allí se pide:
+
+https://replit.com/@utu_liceo/Ejer1-Auto#Z_README.md
+
+https://replit.com/@utu_liceo/Ejer2-Empleado#Z_README.md
+
+https://replit.com/@utu_liceo/Ejer3-Electrodomestico#Z_README.md
+
