@@ -80,7 +80,7 @@ Además se pide:
 
 • **public void  siguienteCarta():** Modifica el valor del objeto de tipo Carta por la siguiente, utilizando un orden alfabético para los palos. Por ejemplo la siguiente carta al 12 de espada es el 1 de oro.
 
-• **public String toString(): **Ejemplo de devolución: “1 de basto”.
+• **public String toString():** Ejemplo de devolución: “1 de basto”
 
 
 En la clase **Principal** debe imprimir, utilizando un for, las 48 cartas.
