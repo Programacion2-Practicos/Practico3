@@ -21,7 +21,7 @@ https://replit.com/@utu_liceo/EmpleadoFecha#Z_README.md
 ### Descargue la carpeta **Empleado2**, descomprimala y dejela en su carpeta Workspace de eclipse (recuerde que tiene que importar desde eclipse la carpeta que le queda adentro con el mismo nombre)
 
 ### Copie la clase Empleado realizada en el práctico anterior al paquete logica y agreguele el atributo **fechaIingreso** de tipo Fecha
-![Diagrama de la clase Empleado](./empleado.png) 
+![Diagrama de la clase Empleado](./empleado_agregacion.png) 
 ### Realizar los cambios necesarios para que funcione correctamente.
 ### **(Método antiguedad)**: El método antiguedad devuelve la cantidad de años de antiguedad (año de la fecha actual - año de la fecha de Ingreso). Tener en cuenta que la fecha actual la recibe por parámetro. 
 ### En la ** clase Principal** deberá crear un objeto de tipo Empleado y verificar el correcto funcionamiento del método específico.
