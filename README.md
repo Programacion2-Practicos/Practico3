@@ -1,4 +1,4 @@
-# PRACTICO 3 2022
+# PRACTICO 3
 
 ## Clase ARTICULO
 ### Ejercicio 1 (Diagrama de clases): 
